@@ -1,0 +1,28 @@
+{
+ "info": {
+	"url_png_icon_64x64": "pool logo",
+	"url_png_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Celtic_FC.svg/1200px-Celtic_FC.svg.png",
+	"location": "Scotland",
+	"social": {
+		"twitter_handle": "",
+		"telegram_handle": "",
+		"facebook_handle": "",
+		"youtube_handle": "",
+		"twitch_handle": "",
+		"discord_handle": "",
+		"github_handle": "",
+	},
+	"company": {
+		"name": "",
+		"addr": "",
+		"city": "",
+		"country": "",
+		"vat_id": ""
+	},
+	"about": {
+		"me": "",
+		"server": "",
+		"company" "",
+	},
+	"rss": ""
+	}
