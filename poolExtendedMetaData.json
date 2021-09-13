@@ -25,4 +25,11 @@
 		"company" "",
 	},
 	"rss": ""
-	}
+	},
+	"telegram-admin-handle": [ 
+		""
+	],
+	"my-pool-ids": [""
+	],
+	"when-saturated-then-recomend": [""
+	]
